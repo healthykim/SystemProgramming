@@ -1,4 +1,4 @@
-# 2019 System Programming Kernel Lab
+# Kernel Lab
 ## Overview
 ### ptree
 * Make process tree branch starts from specific pid
